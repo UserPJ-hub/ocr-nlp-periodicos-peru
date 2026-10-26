@@ -1,0 +1,11 @@
+streamlit==1.45.1
+opencv-python-headless==4.10.0.84
+pytesseract==0.3.13
+pymupdf
+numpy
+pandas
+joblib
+wordcloud
+scikit-learn==1.6.1
+spacy>=3.8,<3.9
+es_core_news_md @ https://github.com/explosion/spacy-models/releases/download/es_core_news_md-3.8.0/es_core_news_md-3.8.0-py3-none-any.whl

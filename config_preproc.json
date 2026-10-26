@@ -1,0 +1,12 @@
+{
+  "preprocesamiento": {
+    "redim": true,
+    "enderezar": true,
+    "ruido": true,
+    "sombras": true,
+    "contraste": false,
+    "binarizacion": null
+  },
+  "variante": "V4_+sombras",
+  "psm": 3
+}
