@@ -1,7 +1,5 @@
 # 📰 Lector inteligente de noticias peruanas (OCR + NLP)
 
-Proyecto de medio curso · Ciencia de Datos II · UNALM
-
 Aplicación que recibe la foto de una nota de periódico peruano, la preprocesa con OpenCV,
 extrae el texto con Tesseract OCR y lo analiza con NLP: clasificación por sección,
 entidades (personas, organizaciones, lugares y regiones del Perú), palabras clave,
@@ -37,4 +35,6 @@ streamlit run app.py
    NER, palabras clave, resumen extractivo y nube de palabras.
 
 ## Integrantes
-- _(nombres)_
+- Blacido Hernandez, Pamela Brescia
+- Chavez Paucar, Carla Andre
+- Condor Montes, Paola Judith
