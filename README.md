@@ -5,7 +5,7 @@ extrae el texto con Tesseract OCR y lo analiza con NLP: clasificación por secci
 entidades (personas, organizaciones, lugares y regiones del Perú), palabras clave,
 resumen automático y nube de palabras.
 
-**App desplegada:** _(pegar enlace de Streamlit Cloud)_
+**App desplegada:** 
 
 ## Estructura
 ```
